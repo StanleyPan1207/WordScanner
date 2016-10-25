@@ -484,6 +484,7 @@
 				ACD714F51DBF973F00094631 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ACD714F61DBF973F00094631 /* Build configuration list for PBXNativeTarget "Word ScannerTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				ACD714F81DBF973F00094631 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ACD714F91DBF973F00094631 /* Build configuration list for PBXNativeTarget "Word ScannerUITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +502,7 @@
 				ACD714FB1DBF973F00094631 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
